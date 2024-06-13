@@ -3,7 +3,8 @@ layout: home
 title: DevOpsLondon2021
 permalink: /
 ---
-![Banner](./_img/banner.png)
+![Banner Image]({{ '/_img/banner.png' | prepend: site.baseurl }})
+![Pic Image]({{ '/_img/pic.png' | prepend: site.baseurl }})
 
 📍 Based in London: The heart of innovation and a technological powerhouse.
 
