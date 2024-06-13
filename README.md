@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home page
+title: Introduction
 permalink: /
 ---
 
@@ -17,6 +17,8 @@ permalink: /
 ⏱ Quick Learner with a Positive Attitude: I thrive on new challenges and am always eager to learn.
 
 🤝 Open to Opportunities: Looking to make a substantial impact through exciting freelance projects.
+
+📧 Reach out devopslondon2021@gmail.com
 
 ## Demo
 
