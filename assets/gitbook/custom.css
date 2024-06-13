@@ -21,14 +21,6 @@
     min-height: calc(100% - 50px);
 }
 
-@media (max-width: 1240px) {
-    .book-body .body-inner {
-        position: absolute;
-        margin-top: 50px;
-        min-height: calc(100% - 50px)
-    }
-}
-
 .book-body .body-inner .page-wrapper {
     min-height: calc(100% - 46px);
 }
@@ -41,11 +33,6 @@
     .book-body .body-inner .navigation {
         max-width: calc(50% - 3px);
         width: calc(50% - 3px);
-    }
-
-    .book.with-summary .book-body .book-header {
-        overflow-x: hidden;
-        overflow-y: hidden;
     }
 }
 
@@ -263,11 +250,6 @@
 
 .markdown-section blockquote.block-danger h6 {
     color: var(--c-danger-title);
-}
-
-pre:has(code.language-mermaid[data-processed="true"]) {
-    background-color: #ffffff;
-    text-align: center;
 }
 
 :root {
