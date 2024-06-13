@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Hola 👋
+title: Introduction
 permalink: /
 ---
 <!-- ![Banner](./assets/images/banner.png) -->
