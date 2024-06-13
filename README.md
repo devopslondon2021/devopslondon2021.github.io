@@ -23,5 +23,3 @@ permalink: /
 
 
 📧 **Reach out**: [devopslondon2021@gmail.com](mailto:devopslondon2021@gmail.com)
-
-![Inspiration]({{ '/assets/images/pic.png' | prepend: site.baseurl }})
