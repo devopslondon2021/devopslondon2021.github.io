@@ -21,6 +21,7 @@ permalink: /
 
 🤝 **Open to Opportunities**: Looking to make a substantial impact through exciting freelance projects.
 
-📧 Reach out: [devopslondon2021@gmail.com](mailto:devopslondon2021@gmail.com)
+
+📧 **Reach out**: [devopslondon2021@gmail.com](mailto:devopslondon2021@gmail.com)
 
 ![Inspiration]({{ '/assets/images/pic.png' | prepend: site.baseurl }})
