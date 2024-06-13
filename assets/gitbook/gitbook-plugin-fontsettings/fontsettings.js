@@ -168,7 +168,9 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
     function init(config) {
         // Search for plugin configured font family
         var configFamily = getFontFamilyId(config.family),
-            configTheme = getThemeId(config.theme);
+            // configTheme = getThemeId(config.theme); <- revert me
+            configTheme = getThemeId('night');
+
 
         // Instantiate font state object
         fontState = gitbook.storage.get('fontState', {
