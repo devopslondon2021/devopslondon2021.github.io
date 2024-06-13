@@ -3,7 +3,10 @@ layout: home
 title: Introduction
 permalink: /
 ---
-![Banner](./assets/images/banner.png)
+<!-- ![Banner](./assets/images/banner.png) -->
+![Banner]({{ '/assets/images/banner.png' | prepend: site.baseurl }})
+
+
 📍 Based in London: The heart of innovation and a technological powerhouse.
 
 🔧 15+ Years of Experience: Skilled in DevOps, Cloud Solutions, and Data Analytics.
