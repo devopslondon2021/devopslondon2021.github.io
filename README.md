@@ -4,9 +4,6 @@ title: Hola 👋
 permalink: /
 cover: /assets/images/banner.png
 ---
-<!-- ![Banner](./assets/images/banner.png) -->
-![Banner]({{ '/assets/images/banner.png' | prepend: site.baseurl }})
-
 
 📍 **Based in London**: The heart of innovation and a technological powerhouse.
 
