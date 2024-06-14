@@ -2,7 +2,7 @@
 title: DevOps In Web3
 author: DevOpsLondon2021
 date: 2024-06-14
-category: Jekyll
+category: posts
 layout: post
 ---
 
