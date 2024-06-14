@@ -20,9 +20,9 @@ We will start with some understanding of the smart contract and deploying a basi
 
 
 ### Smart Contract
-What are smart contracts? 
+**What are smart contracts?**
 
-![Smart-contract]({{ '/_img/smartcontract.png' | prepend: site.baseurl }})
+![Smart-contract]({{ '../assets/images/smartcontract.png' | prepend: site.baseurl }})
 Image Source: pirimidtech.com
 
 Smart contracts are computer programs that run on a blockchain. They execute automatically when certain conditions are met, without the need for a central authority or server. This makes transactions secure, transparent, and irreversible.
@@ -39,19 +39,17 @@ The machine automatically checks the amount and dispenses the item without any h
 Similarly, a smart contract automatically executes when its conditions are met. No intermediaries are needed, and the process is transparent and secure.
 
 Importance of Smart Contracts
-Automation: They automatically execute transactions when conditions are met.
-Trust: They allow transactions between unknown parties without intermediaries.
-Immutability: Once published, their code cannot be changed, ensuring consistency and reliability.
+- **Automation**: They automatically execute transactions when conditions are met.
+- **Trust**: They allow transactions between unknown parties without intermediaries.
+- **Immutability**: Once published, their code cannot be changed, ensuring consistency and reliability.
 
 
-### Sub title 2
+Deploying smart contract
+------------------------
 
-### Sub title 3
+This is a step-by-step introductory tutorial that will teach you how to create and deploy a smart contract on Ethereum. 
 
-Why this repo
--------------
-
-long contents .....
+If you are new to blockchain development and don’t know where to start, or if you just want to understand how to deploy and interact with smart contracts, this guide is for you.
 
 + 1
 + 2
