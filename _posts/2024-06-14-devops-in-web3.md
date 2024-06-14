@@ -22,9 +22,7 @@ We will start with some understanding of the smart contract and deploying a basi
 Smart Contract
 --------------
 #### What are smart contracts?
-
-![Smart-contract]({{ '/assets/images/smartcontract.png' | prepend: site.baseurl }})
-Image source: pirimidtech.com
+<img src="{{ '/assets/images/smartcontract.png' | prepend: site.baseurl }}" alt="smartcontract" style="width: 80%;">
 
 Smart contracts are computer programs that run on a blockchain. They execute automatically when certain conditions are met, without the need for a central authority or server. This makes transactions secure, transparent, and irreversible.
 
@@ -41,7 +39,7 @@ Similarly, a smart contract automatically executes when its conditions are met. 
 
 
 #### Importance of Smart Contracts
-<img src="{{ '/assets/images/wallet.png' | prepend: site.baseurl }}" alt="Smart-contract-benefits" style="width: 60%;">
+<img src="{{ '/assets/images/smartcontract-benefits.png' | prepend: site.baseurl }}" alt="Smart-contract-benefits" style="width: 60%;">
 
 - **Automation**: They automatically execute transactions when conditions are met.
 - **Trust**: They allow transactions between unknown parties without intermediaries.
