@@ -77,6 +77,33 @@ https://trezor.io/
 A user-friendly wallet by Coinbase that allows full control over private keys and supports a wide variety of digital assets and dApp interactions.
 https://www.coinbase.com/en-gb/wallet/
 
+Popular Web3 IDEs
+-----------------
+- **Remix IDE**
+A powerful, open-source web and desktop application that is primarily used for Ethereum smart contract development. It’s easy to use for beginners and provides a solid suite of tools for writing, testing, and deploying smart contracts.
+https://remix.ethereum.org
+
+- **Truffle Suite**
+Truffle is one of the most popular development frameworks for Ethereum. It includes a development environment, testing framework, and asset pipeline. It’s known for its robust testing framework and network management for deploying to any number of public and private networks.
+https://www.trufflesuite.com/truffle
+
+- **Hardhat**
+Hardhat is a development environment to compile, deploy, test, and debug Ethereum software. It’s known for its Hardhat Network, a local Ethereum network designed for development, which allows for advanced debugging and detailed error messages.
+https://hardhat.org
+
+- **MetaMask Snaps (Flask)**
+Although primarily known as a cryptocurrency wallet, MetaMask Snaps extends its functionalities to allow developers to create and manage their own plugins. It’s increasingly being used as a platform to test and run Web3 applications directly within the browser.
+https://metamask.io/flask/
+
+- **Visual Studio Code with Blockchain Extensions**
+VS Code isn’t a blockchain-specific IDE, but with extensions like Solidity and Ethereum Blockchain Workbench, it becomes a powerful tool for smart contract development and other blockchain-related coding.
+https://code.visualstudio.com/
+
+- **Etherlime**
+An Ethereum development framework based on ethers.js. It provides fast deployment, compilation, and testing of Ethereum applications.
+https://etherlime.readthedocs.io/
+
+
 Deploying simple smart contract
 -------------------------------
 
