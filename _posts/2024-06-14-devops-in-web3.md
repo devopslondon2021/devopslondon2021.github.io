@@ -77,8 +77,8 @@ https://trezor.io/
 A user-friendly wallet by Coinbase that allows full control over private keys and supports a wide variety of digital assets and dApp interactions.
 https://www.coinbase.com/en-gb/wallet/
 
-Deploying smart contract
-------------------------
+Deploying simple smart contract
+-------------------------------
 
 This is a step-by-step introductory tutorial that will teach you how to create and deploy a smart contract on Ethereum. 
 
