@@ -26,9 +26,7 @@ Smart Contract
 
 Smart contracts are computer programs that run on a blockchain. They execute automatically when certain conditions are met, without the need for a central authority or server. This makes transactions secure, transparent, and irreversible.
 
-Smart contracts enable parties to trust the process without knowing each other. They automate transactions and agreements, ensuring they are carried out as intended without intermediaries like lawyers or banks. This makes them trustworthy and efficient for handling digital transactions and agreements.
-Simple Analogy: The Vending Machine
-Think of a smart contract like a vending machine. You put money into the machine and select an item. The machine automatically checks the amount and dispenses the item you chose. There’s no need for a shopkeeper or cashier. Similarly, a smart contract executes automatically when its conditions are met.
+Smart contracts enable parties to trust the process without knowing each other. They automate transactions and agreements, ensuring they are carried out as intended without intermediaries like lawyers or banks. This makes them trustworthy and efficient for handling digital transactions and agreements.   
 
 #### Simple Analogy: The Vending Machine
 Imagine a vending machine:
