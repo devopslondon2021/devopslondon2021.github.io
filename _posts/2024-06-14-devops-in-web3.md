@@ -50,9 +50,9 @@ Web3 wallets
 Web3 wallets are digital tools that enable interaction with decentralized applications (dApps) on various blockchain platforms. Unlike traditional wallets that store currency, Web3 wallets manage cryptographic keys that prove ownership and allow users to sign transactions securely. These wallets are essential for participating in the broader ecosystem of Web3, including using cryptocurrencies, managing digital identities, and interacting with decentralized finance (DeFi) applications.
 
 #### Key Features
-Security: They store private keys securely, often encrypted on the device or using advanced security measures like hardware isolation.
-Interoperability: Many are designed to work across multiple blockchain networks.
-User Control: Users have full control over their assets without the need for intermediaries.
+**Security**: They store private keys securely, often encrypted on the device or using advanced security measures like hardware isolation.   
+**Interoperability**: Many are designed to work across multiple blockchain networks.   
+**User Control**: Users have full control over their assets without the need for intermediaries.
 
 #### Popular Web3 Wallets
 - <span style="color: #D4AF37;">**MetaMask**</span>
