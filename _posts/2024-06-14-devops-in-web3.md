@@ -57,23 +57,23 @@ Interoperability: Many are designed to work across multiple blockchain networks.
 User Control: Users have full control over their assets without the need for intermediaries.
 
 #### Popular Web3 Wallets
-**MetaMask**
+- **MetaMask**
 A versatile browser extension and mobile wallet for Ethereum and ERC-20 tokens, enabling direct interaction with decentralized applications.
 https://metamask.io/
 
-**Trust Wallet**
+- **Trust Wallet**
 A mobile wallet supporting a wide range of cryptocurrencies and features for interacting with dApps across multiple blockchains.
 https://trustwallet.com/
 
-**Ledger Nano X**
+- **Ledger Nano X**
 A secure hardware wallet that supports multiple cryptocurrencies, ensuring cold storage of private keys and integration with Web3 applications.
 https://www.ledger.com/
 
-**Trezor Model T**
+- **Trezor Model T**
 A pioneer in hardware wallets, offering robust security for storing private keys and supporting numerous cryptocurrencies and digital assets.
 https://trezor.io/
 
-**Coinbase Wallet**
+- **Coinbase Wallet**
 A user-friendly wallet by Coinbase that allows full control over private keys and supports a wide variety of digital assets and dApp interactions.
 https://www.coinbase.com/en-gb/wallet/
 
