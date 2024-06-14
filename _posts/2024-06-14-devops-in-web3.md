@@ -50,6 +50,8 @@ Similarly, a smart contract automatically executes when its conditions are met. 
 Web3 wallets
 ------------
 ![Smart-contract-benefits]({{ '/assets/images/wallet.png' | prepend: site.baseurl }})
+<img src="{{ '/assets/images/wallet.png' | prepend: site.baseurl }}" alt="Smart-contract-benefits" style="width: 50%;">
+
 
 Web3 wallets are digital tools that enable interaction with decentralized applications (dApps) on various blockchain platforms. Unlike traditional wallets that store currency, Web3 wallets manage cryptographic keys that prove ownership and allow users to sign transactions securely. These wallets are essential for participating in the broader ecosystem of Web3, including using cryptocurrencies, managing digital identities, and interacting with decentralized finance (DeFi) applications.
 
