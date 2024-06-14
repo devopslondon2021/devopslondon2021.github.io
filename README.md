@@ -7,7 +7,7 @@ permalink: /
 ![Banner]({{ '/assets/images/banner.png' | prepend: site.baseurl }})
 
 
-📍 <span style="color: E6E6FA;">**Based in London**</span>: The heart of innovation and a technological powerhouse.
+📍 <span style="color: #E6E6FA;">**Based in London**</span>: The heart of innovation and a technological powerhouse.
 
 🔧 <span style="color: #E6E6FA;">**15+ Years of Experience**</span>: Skilled in DevOps, Cloud Solutions, and Data Analytics.
 
@@ -19,7 +19,7 @@ permalink: /
 
 ⏱ <span style="color: #E6E6FA;">**Quick Learner with a Positive Attitude**</span>: I thrive on new challenges and am always eager to learn.
 
-🤝 <span style="color: #4D4DFF;">**Open to Opportunities**</span>: Looking to make a substantial impact through exciting freelance projects.
+🤝 <span style="color: #C0C0C0;">**Open to Opportunities**</span>: Looking to make a substantial impact through exciting freelance projects.
 
 
 📧 <span style="color: #D4AF37;">**Reach out**</span>: [devopslondon2021@gmail.com](mailto:devopslondon2021@gmail.com)
