@@ -19,7 +19,8 @@ Getting started
 We will start with some understanding of the smart contract and deploying a basic "Hello World" smart contract on Ethereum node. 
 
 
-### Smart Contract
+Smart Contract
+--------------
 #### What are smart contracts?
 
 ![Smart-contract]({{ '/assets/images/smartcontract.png' | prepend: site.baseurl }})
@@ -39,7 +40,7 @@ The machine automatically checks the amount and dispenses the item without any h
 Similarly, a smart contract automatically executes when its conditions are met. No intermediaries are needed, and the process is transparent and secure.
 
 
-**Importance of Smart Contracts**:
+#### Importance of Smart Contracts
 ![Smart-contract-benefits]({{ '/assets/images/smartcontract-benefits.png' | prepend: site.baseurl }})
 - **Automation**: They automatically execute transactions when conditions are met.
 - **Trust**: They allow transactions between unknown parties without intermediaries.
@@ -51,12 +52,12 @@ Web3 wallets
 
 Web3 wallets are digital tools that enable interaction with decentralized applications (dApps) on various blockchain platforms. Unlike traditional wallets that store currency, Web3 wallets manage cryptographic keys that prove ownership and allow users to sign transactions securely. These wallets are essential for participating in the broader ecosystem of Web3, including using cryptocurrencies, managing digital identities, and interacting with decentralized finance (DeFi) applications.
 
-**Key Features:**
+#### Key Features
 Security: They store private keys securely, often encrypted on the device or using advanced security measures like hardware isolation.
 Interoperability: Many are designed to work across multiple blockchain networks.
 User Control: Users have full control over their assets without the need for intermediaries.
 
-**Popular Web3 Wallets**
+#### Popular Web3 Wallets
 **MetaMask**
 A versatile browser extension and mobile wallet for Ethereum and ERC-20 tokens, enabling direct interaction with decentralized applications.
 https://metamask.io/
