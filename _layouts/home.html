@@ -12,22 +12,6 @@
     </head>
     <body>
         <div class="book">
-            <!-- Sidebar Section -->
-            <div class="sidebar">
-                <h3>Categories</h3>
-                <ul>
-                    {% for category in site.categories %}
-                    <li>
-                        <a href="#">{{ category[0] }}</a>
-                        <ul>
-                            {% for post in category.last %}
-                            <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-                            {% endfor %}
-                        </ul>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
 
             {%- include toc-date.html -%}
 
