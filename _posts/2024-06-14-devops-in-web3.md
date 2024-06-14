@@ -39,7 +39,7 @@ The machine automatically checks the amount and dispenses the item without any h
 Similarly, a smart contract automatically executes when its conditions are met. No intermediaries are needed, and the process is transparent and secure.
 
 
-Importance of Smart Contracts:
+**Importance of Smart Contracts**:
 ![Smart-contract-benefits]({{ '/assets/images/smartcontract-benefits.png' | prepend: site.baseurl }})
 - **Automation**: They automatically execute transactions when conditions are met.
 - **Trust**: They allow transactions between unknown parties without intermediaries.
@@ -56,7 +56,7 @@ Security: They store private keys securely, often encrypted on the device or usi
 Interoperability: Many are designed to work across multiple blockchain networks.
 User Control: Users have full control over their assets without the need for intermediaries.
 
-Popular Web3 Wallets
+**Popular Web3 Wallets**
 **MetaMask**
 A versatile browser extension and mobile wallet for Ethereum and ERC-20 tokens, enabling direct interaction with decentralized applications.
 https://metamask.io/
