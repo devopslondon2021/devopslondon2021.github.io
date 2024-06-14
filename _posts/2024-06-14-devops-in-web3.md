@@ -20,7 +20,7 @@ We will start with some understanding of the smart contract and deploying a basi
 
 
 ### Smart Contract
-**What are smart contracts?**
+#### What are smart contracts?
 
 ![Smart-contract]({{ '/assets/images/smartcontract.png' | prepend: site.baseurl }})
 Image source: pirimidtech.com
@@ -31,7 +31,7 @@ Smart contracts enable parties to trust the process without knowing each other. 
 Simple Analogy: The Vending Machine
 Think of a smart contract like a vending machine. You put money into the machine and select an item. The machine automatically checks the amount and dispenses the item you chose. There’s no need for a shopkeeper or cashier. Similarly, a smart contract executes automatically when its conditions are met.
 
-Simple Analogy: The Vending Machine
+#### Simple Analogy: The Vending Machine
 Imagine a vending machine:
 
 You insert money and select an item.
