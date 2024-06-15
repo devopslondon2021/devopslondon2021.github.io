@@ -12,21 +12,24 @@ A subgraph is a component of The Graph, a decentralized protocol used to index a
 
 Image source: [https://thegraph.com/](https://thegraph.com/)
 
-### Key terms
+Key terms
+---------
 
 - <span style="color: #D4AF37;">**Manifest:**</span>  A subgraph manifest (subgraph.yaml) is a configuration file where the developer defines the data sources (e.g., smart contracts), the schema, and the data mappings.
 - <span style="color: #D4AF37;">**Data Sources**</span>: These specify the smart contracts and blockchains from which data will be indexed.
 - <span style="color: #D4AF37;">**Schema**</span>: Defined in a GraphQL schema file (schema.graphql), this outlines the structure of the data to be indexed.
 - <span style="color: #D4AF37;">**Mappings**</span>: These are written in AssemblyScript and specify how to transform and store blockchain data into the defined schema.
 
-### Benefits
+Benefits
+--------
 
 - <span style="color: #D4AF37;">**Efficiency**</span>: Subgraphs provide an efficient way to query blockchain data without the need to directly interact with the blockchain for every request.
 - <span style="color: #D4AF37;">**Structured Data**</span>: By defining schemas and mappings, subgraphs ensure that data is well-structured and easy to work with.
 - <span style="color: #D4AF37;">**Real-time Updates**</span>: Subgraphs can provide real-time data updates as they index new blocks and events from the blockchain.
 - <span style="color: #D4AF37;">**Decentralization**</span>: Using The Graph’s decentralized network ensures that data indexing and querying are resilient and trustless.
 
-### Limitations
+Limitations
+-----------
 
 - <span style="color: #D4AF37;">**Indexing Latency**</span>: Subgraphs may experience delays in indexing new data from the blockchain, which can impact real-time data availability, especially during high transaction volumes.
 - <span style="color: #D4AF37;">**Complexity of Setup**</span>: Setting up and configuring subgraphs can be complex, requiring a good understanding of The Graph’s architecture, GraphQL, and blockchain data structures.
@@ -34,7 +37,8 @@ Image source: [https://thegraph.com/](https://thegraph.com/)
 - <span style="color: #D4AF37;">**Limited Support for Chains**</span>: The Graph initially focused on Ethereum and has gradually added support for other blockchains. However, support for some newer or less popular chains may still be limited.
 - <span style="color: #D4AF37;">**Centralization Concerns**</span>: Although The Graph is working towards full decentralization, parts of its infrastructure (such as the hosted service) have been centralized, which could be a concern for some projects prioritizing complete decentralization.
 
-### Alternatives
+Alternatives
+------------
 
 - <span style="color: #D4AF37;">**Covalent**</span>
     - <span style="color: #D4AF37;">**Description**</span>: Covalent provides a unified API to access blockchain data across multiple blockchains.
