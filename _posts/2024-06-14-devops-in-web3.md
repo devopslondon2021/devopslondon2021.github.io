@@ -102,6 +102,22 @@ VS Code isn’t a blockchain-specific IDE, but with extensions like Solidity and
 An Ethereum development framework based on ethers.js. It provides fast deployment, compilation, and testing of Ethereum applications.   
 [https://etherlime.readthedocs.io/](https://etherlime.readthedocs.io/)
 
+DevOps in Web2 vs. Web3
+-----------------------
+
+| **Aspect**                    | **DevOps in Web2**                                                                                   | **DevOps in Web3**                                                                                                         |
+|-------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Infrastructure**            | Centralized servers and data centers.                                                               | Decentralized, often distributed across nodes in a blockchain network.                                                    |
+| **Deployment Targets**        | Traditional cloud environments (AWS, Azure, Google Cloud, etc.).                                    | Blockchain nodes, decentralized applications (dApps), and smart contract platforms.                                       |
+| **Security Focus**            | Primarily on securing the server, database, and application layers from unauthorized access.        | Emphasizes the security of transactions, smart contracts, and ensuring the integrity of blockchain protocols.              |
+| **Scaling**                   | Vertical and horizontal scaling through additional servers or instances.                            | Scaling through network consensus, layer 2 solutions, and sharding techniques.                                            |
+| **Data Management**           | Centralized databases managed through SQL or NoSQL systems.                                         | Data is distributed across blockchain, requiring new approaches to querying and transaction handling.                     |
+| **Development Practices**     | Emphasizes continuous integration and deployment using automated pipelines.                         | Involves continuous integration but requires additional considerations for immutable deployments and upgrade patterns.   |
+| **Tooling**                   | Standard DevOps tools like Jenkins, Kubernetes, Docker, etc.                                        | Requires blockchain-specific tools such as Truffle, Hardhat, Ganache, and others for testing and deployment.              |
+| **Monitoring and Logging**    | Focus on monitoring server performance, application logs, and user activity.                        | Monitoring node health, transaction performance, and smart contract interactions is crucial.                             |
+| **Update and Rollback**       | Updates and rollbacks can be managed through standard deployment pipelines.                         | Smart contracts are often immutable, requiring careful planning and potential use of upgradeable proxy contracts.         |
+| **Compliance and Regulations**| Compliance is generally focused on data privacy, security standards, and industry-specific regulations. | In addition to traditional compliance, there's a need to consider regulatory aspects specific to cryptocurrencies and tokenomics. |
+
 
 Deploying simple smart contract
 -------------------------------
