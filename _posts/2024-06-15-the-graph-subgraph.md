@@ -43,25 +43,25 @@ Alternatives
 - <span style="color: #E6E6FA;">**Covalent**</span>
     - <span style="color: #D4AF37;">**Description**</span>: Covalent provides a unified API to access blockchain data across multiple blockchains.
     - <span style="color: #D4AF37;">**Strengths**</span>: Offers a no-code solution for querying blockchain data, supports multiple blockchains, and provides rich data insights without requiring complex subgraph setups.
-    - <span style="color: #D4AF37;">**Use Cases**</span>: Ideal for developers seeking a straightforward way to query blockchain data without deep technical setups.
-    [https://www.covalenthq.com/](https://www.covalenthq.com/)
+    - <span style="color: #D4AF37;">**Use Cases**</span>: Ideal for developers seeking a straightforward way to query blockchain data without deep technical setups.   
+    Website link: [https://www.covalenthq.com/](https://www.covalenthq.com/)
 - <span style="color: #E6E6FA;">**Dune Analytics**</span>
     - <span style="color: #D4AF37;">**Description**</span>: A platform for querying and visualizing blockchain data using SQL.
     - <span style="color: #D4AF37;">**Strengths**</span>: User-friendly interface, powerful data visualization tools, and support for collaborative queries.
-    - <span style="color: #D4AF37;">**Use Cases**</span>: Popular among data analysts and developers who need to create custom reports and visualizations of blockchain data.
-    [https://dune.com/home](https://dune.com/home)
+    - <span style="color: #D4AF37;">**Use Cases**</span>: Popular among data analysts and developers who need to create custom reports and visualizations of blockchain data.   
+    Website link: [https://dune.com/home](https://dune.com/home)
 - <span style="color: #E6E6FA;">**Alchemy**</span>
     - <span style="color: #D4AF37;">**Description**</span>: Alchemy provides a suite of developer tools, including enhanced APIs for querying blockchain data.
     - <span style="color: #D4AF37;">**Strengths**</span>: High reliability, performance-focused APIs, and additional services like monitoring and debugging tools.
-    - <span style="color: #D4AF37;">**Use Cases**</span>: Developers seeking robust and high-performance infrastructure for building and scaling dApps.
-    [https://www.alchemy.com/](https://www.alchemy.com/)
+    - <span style="color: #D4AF37;">**Use Cases**</span>: Developers seeking robust and high-performance infrastructure for building and scaling dApps.   
+    Website link: [https://www.alchemy.com/](https://www.alchemy.com/)
 - <span style="color: #E6E6FA;">**Infura**</span>
     - <span style="color: #D4AF37;">**Description**</span>: Infura offers a scalable API suite for connecting to Ethereum and IPFS networks.
     - <span style="color: #D4AF37;">**Strengths**</span>: Reliable infrastructure, easy integration, and extensive developer support.
-    - <span style="color: #D4AF37;">**Use Cases**</span>: Projects needing stable and scalable access to Ethereum and IPFS without managing their own nodes.
-    [https://www.infura.io/](https://www.infura.io/)
+    - <span style="color: #D4AF37;">**Use Cases**</span>: Projects needing stable and scalable access to Ethereum and IPFS without managing their own nodes.   
+    Website link: [https://www.infura.io/](https://www.infura.io/)
 - <span style="color: #E6E6FA;">**Bitquery**</span>
     - <span style="color: #D4AF37;">**Description**</span>: Bitquery provides a set of data products and APIs for accessing blockchain data.
     - <span style="color: #D4AF37;">**Strengths**</span>: Supports multiple blockchains, provides deep analytics and data processing capabilities.
-    - <span style="color: #D4AF37;">**Use Cases**</span>: Developers and analysts needing detailed blockchain data and analytics across various networks.
-    [https://bitquery.io/](https://bitquery.io/)
+    - <span style="color: #D4AF37;">**Use Cases**</span>: Developers and analysts needing detailed blockchain data and analytics across various networks.   
+    Website link: [https://bitquery.io/](https://bitquery.io/)
