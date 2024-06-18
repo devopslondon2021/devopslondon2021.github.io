@@ -54,7 +54,8 @@ Web3 wallets are digital tools that enable interaction with decentralized applic
 **Interoperability**: Many are designed to work across multiple blockchain networks.   
 **User Control**: Users have full control over their assets without the need for intermediaries.
 
-#### Popular Web3 Wallets
+Popular Web3 Wallets
+--------------------
 - <span style="color: #D4AF37;">**MetaMask**</span>   
 A versatile browser extension and mobile wallet for Ethereum and ERC-20 tokens, enabling direct interaction with decentralized applications.   
 https://metamask.io/
