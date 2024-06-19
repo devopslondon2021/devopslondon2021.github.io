@@ -119,14 +119,72 @@ DevOps in Web2 vs. Web3
 | **Compliance and Regulations**| Compliance is generally focused on data privacy, security standards, and industry-specific regulations. | In addition to traditional compliance, there's a need to consider regulatory aspects specific to cryptocurrencies and tokenomics. |
 
 
-Deploying simple smart contract
--------------------------------
+Part 1: Set up Development Environment
+--------------------------------------
 
-This is a step-by-step introductory tutorial that will teach you how to create and deploy a smart contract on Ethereum. 
+## Installing Node.js on a MacBook
 
-If you are new to blockchain development and don’t know where to start, or if you just want to understand how to deploy and interact with smart contracts, this guide is for you.
+### What is Node.js?
+Node.js is a runtime environment that allows you to run JavaScript code outside of a web browser. It's essential for developing server-side applications and is widely used in blockchain application development.
 
-+ 1
-+ 2
-+ 3
-+ 4
+### Why Node.js for Smart Contract Development?
+Node.js is necessary to run JavaScript-based blockchain tools like **Truffle**, which is used to compile, deploy, and test Ethereum smart contracts. Node.js also manages dependencies and runs the development servers for your decentralized applications (DApps).
+
+### Installation Steps:
+#### Using Homebrew:
+1. **Install Homebrew** (if not already installed):
+   ```bash
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  
+2. **Intall Node.js using homebrew**:
+Skip this step if you already have Node.js and npm on your system.  
+
+```bash
+brew install node
+```
+This command installs Node.js and npm (Node Package Manager), which is used to install JavaScript packages.
+
+**Direct Download**:
+- Visit the official Node.js website [Node.js](https://nodejs.org/en)
+- Download the macOS installer recommended for most users.
+- Follow the installation prompts to install Node.js and npm on your MacBook.
+
+**Verify Installation**:
+To confirm that Node.js and npm are correctly installed:
+
+```bash
+node -v
+npm -v
+```
+
+### Installing Truffle
+Truffle is a development environment and framework for Ethereum that simplifies the processes of compiling, deploying, and testing blockchain applications.
+
+**Installation**:
+With Node.js and npm installed, install Truffle globally on your system:
+
+```bash
+npm install -g truffle
+```
+The -g flag installs Truffle globally, making it accessible from any terminal window.
+
+**Verify Truffle Installation**:
+```bash
+truffle version
+```
+This command displays the version of Truffle installed, along with its dependencies.
+Below are my system configuration at the time of documenting this tutorial. 
+<img src="{{ '/assets/images/truffle-version.png' | prepend: site.baseurl }}" alt="truffleversion" style="width: 90%;">
+
+**Setting Up a Project Directory**:
+```bash
+mkdir hello-world-smartcontract
+cd hello-world-smartcontract
+truffle init
+```
+The truffle init command creates a new Truffle project with all necessary configuration files and directories for smart contract development.
+
+This setup ensures you have a robust development environment on your MacBook for building, testing, and deploying smart contracts using Ethereum and Truffle.
+
+{% note %}
+I will be using [VSCode](https://code.visualstudio.com/download) for the project development, feel free to use whatever IDE you prefer.
+{% endnote %}
