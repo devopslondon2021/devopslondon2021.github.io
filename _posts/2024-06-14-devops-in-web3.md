@@ -350,8 +350,7 @@ module.exports = function(deployer) {
 };
 ```
 
-
-### Migration file name syntax
+### Migration file name syntax
 
 ```bash 
 <Number>_<Description>.js
@@ -359,7 +358,7 @@ module.exports = function(deployer) {
 - **Number**: A prefix number that determines the order in which the files are run. Numbers are typically sequential and start from 1.
 - **Description**: A brief description of what the migration does, making it easier to understand the purpose of the file at a glance.
 
-### Run Migration
+### Run Migration
 To run your migrations, you would use the Truffle command:
 
 ```bash
@@ -367,7 +366,7 @@ truffle migrate
 
 ```
 
-### Run Tests
+### Run Tests
 - From the root of your Truffle project, execute:
 ```bash
 truffle test
