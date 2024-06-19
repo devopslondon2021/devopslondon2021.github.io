@@ -119,7 +119,7 @@ DevOps in Web2 vs. Web3
 | **Compliance and Regulations**| Compliance is generally focused on data privacy, security standards, and industry-specific regulations. | In addition to traditional compliance, there's a need to consider regulatory aspects specific to cryptocurrencies and tokenomics. |
 
 
-Part 1: Set up Development Environment
+Part 1 - Set up Development Environment
 --------------------------------------
 
 ## Installing Node.js on a MacBook
@@ -183,7 +183,7 @@ This command displays the version of Truffle installed, along with its dependenc
 Below are my system configuration at the time of documenting this tutorial. 
 <img src="{{ '/assets/images/truffle-version.png' | prepend: site.baseurl }}" alt="truffleversion" style="width: 90%;">
 
-Part 2: Write a simple Smart Contract
+Part 2 - Write a simple Smart Contract
 -------------------------------------
 
 **Setting Up a Project Directory**:
@@ -236,7 +236,7 @@ Explanation:
 - `setGreeting` is a function that allows users to change the value of greeting.
 - `getGreeting` is a function to retrieve the value of greeting.
 
-Part 3: Compile the Contract
+Part 3 - Compile the Contract
 ----------------------------
 
 **Purpose of Compilation**:
@@ -269,7 +269,7 @@ Compiling your contracts...
    - solc: 0.8.21+commit.d9974bed.Emscripten.clang
 ```
 
-Part 4: Test the Contract
+Part 4 - Test the Contract
 -------------------------
 We will be using `Ganache` - comes with truffle to test contracts locally.
 
