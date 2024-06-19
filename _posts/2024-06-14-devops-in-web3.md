@@ -196,9 +196,8 @@ The truffle init command creates a new Truffle project with all necessary config
 
 This setup ensures you have a robust development environment on your MacBook for building, testing, and deploying smart contracts using Ethereum and Truffle.
 
-{% note %}
-I will be using [VSCode](https://code.visualstudio.com/download) for the project development, feel free to use whatever IDE you prefer. Make sure you install `solidity` extension to beutify the syntax.
-{% endnote %}
+
+- I will be using [VSCode](https://code.visualstudio.com/download) for the project development, feel free to use whatever IDE you prefer. Make sure you install `solidity` extension to beutify the syntax.
 
 **Navigating to the contracts/ Folder**:
 Truffle Project Structure: When you initialize a Truffle project using truffle init, it creates several directories. The contracts/ directory is where all your Solidity contracts are stored.
