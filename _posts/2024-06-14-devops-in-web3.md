@@ -122,7 +122,7 @@ DevOps in Web2 vs. Web3
 Part 1 - Set up Development Environment
 --------------------------------------
 
-## Installing Node.js on a MacBook
+### Installing Node.js on a MacBook
 
 ### What is Node.js?
 Node.js is a runtime environment that allows you to run JavaScript code outside of a web browser. It's essential for developing server-side applications and is widely used in blockchain application development.
