@@ -207,9 +207,8 @@ Navigate to this directory by running `cd contracts/` in your terminal from the 
 
 Create a new file called `HelloWorld.sol`. You can do this using a text editor or by running the command touch `HelloWorld.sol` in the terminal.
 
-{% note %}
-Solidity is a high-level programming language specifically designed for writing smart contracts on the Ethereum blockchain. We will cover a bit about Solidity in separate post. 
-{% endnote %}
+| Note: Solidity is a high-level programming language specifically designed for writing smart contracts on the Ethereum blockchain. We will cover a bit about Solidity in separate post. 
+
 
 - Open the HelloWorld.sol file in a text editor.
 - Start by specifying the Solidity compiler version at the top of the file. This ensures that the contract compiles with the correct version. Example:
