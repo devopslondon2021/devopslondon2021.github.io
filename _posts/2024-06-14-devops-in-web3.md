@@ -314,7 +314,7 @@ contract("HelloWorld", (accounts) => {
 - Open your `truffle-config.js` and ensure the development network settings match Ganache’s RPC server settings (IP address and port).
 
 Here is how my configuration looks - I have extended the default config file created by truffle init: 
-```basg
+```bash
 module.exports = {
   networks: {
     development: {
