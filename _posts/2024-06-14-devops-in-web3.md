@@ -202,7 +202,7 @@ This setup ensures you have a robust development environment on your MacBook for
 **Navigating to the contracts/ Folder**:
 Truffle Project Structure: When you initialize a Truffle project using truffle init, it creates several directories. The contracts/ directory is where all your Solidity contracts are stored.
 
-### Creating a New Contract:
+### Creating a New Contract
 Navigate to this directory by running `cd contracts/` in your terminal from the root of your Truffle project.
 
 Create a new file called `HelloWorld.sol`. You can do this using a text editor or by running the command touch `HelloWorld.sol` in the terminal.
@@ -269,7 +269,7 @@ Compiling your contracts...
 ```
 
 Part 4 - Test the Contract
--------------------------
+--------------------------
 We will be using `Ganache` - comes with truffle to test contracts locally.
 
 ### Why Use Ganache?
