@@ -22,5 +22,5 @@ permalink: /
 🤝 <span style="color: #E6E6FA;">**Open to Opportunities**</span>: Looking to make a substantial impact through exciting freelance projects.
 
 
-📧 <span style="color: #D4AF37;">**Reach out**</span>: [devopslondon2021@gmail.com](mailto:devopslondon2021@gmail.com)
+📧 <span style="color: #D4AF37;">**Reach out**</span>: [devopslondon2019@gmail.com](mailto:devopslondon2021@gmail.com)
 

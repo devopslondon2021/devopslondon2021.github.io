@@ -17,4 +17,4 @@ layout: post
 - <span style="color: #E6E6FA;">**Proactive Support**</span>: Depend on continuous monitoring, management, and support to ensure optimal system performance and uptime.  
 - <span style="color: #E6E6FA;">**Empowerment Through Education**</span>: Equip your team with the knowledge and skills needed to thrive through targeted training and workshops.  
 
-<span style="color: #E6E6FA;">**Just an email away**</span>: 📧 [devopslondon2021@gmail.com](mailto:devopslondon2021@gmail.com)
+<span style="color: #E6E6FA;">**Just an email away**</span>: 📧 [devopslondon2021@gmail.com](mailto:devopslondon2019@gmail.com)
